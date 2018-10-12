@@ -1,2 +1,4 @@
 .terraform/
 terraform.tfstate*
+.kitchen/
+.DS_Store
