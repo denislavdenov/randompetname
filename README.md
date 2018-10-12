@@ -5,3 +5,16 @@
 
 ## V 0.0.2
 **Adds an output to the previous code**
+
+## V 0.0.3
+**Adds kitchen-terraform test that checks if the output is not empty**
+
+
+# How to use:
+
+**Prerequisite:**
+You need to have terraform, kitchen and ruby environment installed
+
+1. `kitchen test`
+2. `terraform init`
+3. `terraform apply`
